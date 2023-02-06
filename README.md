@@ -12,7 +12,7 @@ recipe.
 - [ ] Link those pages in the homepage 
 
 ## Learning Objectives
-- Using basic HTML components 
+- Learn to use basic HTML components 
   1. Links, Images, Lists
   2. Italics / Em, Bold / Strong
 - Learn to create a nice project structure
